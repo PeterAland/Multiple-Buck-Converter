@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=24V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=24V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=D3-A
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=24V Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Member From Class: ClassName=Multiple Buck Converter Member=C8
+Removed Member From Class: ClassName=Multiple Buck Converter Member=C9
+Removed Member From Class: ClassName=Multiple Buck Converter Member=C10
+Removed Member From Class: ClassName=Multiple Buck Converter Member=D3
+Removed Member From Class: ClassName=Multiple Buck Converter Member=J3
+Removed Member From Class: ClassName=Multiple Buck Converter Member=L3
+Removed Member From Class: ClassName=Multiple Buck Converter Member=R7
+Removed Member From Class: ClassName=Multiple Buck Converter Member=R8
+Removed Member From Class: ClassName=Multiple Buck Converter Member=U3
