@@ -9,3 +9,6 @@ This project also made for learning and practice to design a proper power conver
 
 ## Design
 The board designed with Altium Designer, it is a 2 layer board with main buck converter IC is LM2596 ASynchronous Buck Converter
+
+## Manufacturing 
+BOM, Gerber and NC drill files is included in project output folder
