@@ -1,8 +1,0 @@
-DRC Rules Export File for PCB: D:\Google Drive\Shematics and PCB Designs\Buck Converter\Multiple Buck Converter\Multiple Buck Converter.PcbDoc
-RuleKind=Clearance|RuleName=Ground Polygon Layer 1|Scope=Board|Minimum=19.69
-RuleKind=Clearance|RuleName=Ground Polygon Layer 2|Scope=Board|Minimum=19.69
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=0.39
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=5.91
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
